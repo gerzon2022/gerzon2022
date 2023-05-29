@@ -8,7 +8,7 @@
  <img style = "display : flex; " src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/css.png" width="35" height="35">
  <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/figma.png" width="35" height="35">
  <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/gitgitaw.png" width="35" height="35">
- <img src="hhttps://github.com/gerzon2022/gerzon2022/blob/main/assets/html.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/gitgitaw.png" width="35" height="35">
  <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/javava.png" width="35" height="35">
  <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/js.png" width="35" height="35">
  <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/liquid.png" width="35" height="35">
