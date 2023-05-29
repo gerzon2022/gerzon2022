@@ -15,7 +15,7 @@
  <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/postpostman.png" width="35" height="35">
  <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/shopify.png" width="35" height="35">
  <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/graphql.png" width="35" height="35">
- <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/spring.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/spring.svg" width="35" height="35">
 </div>
 
 
