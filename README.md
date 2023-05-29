@@ -1,5 +1,9 @@
 ### Hi there 👋
+  * I love AWS integration services. I specialize in seamlessly connecting applications and systems using Amazon Web Services for enhanced cloud connectivity.
+  * ⚡ Fun fact: Being someone who typically doesn't talk much but when I do, I have a tendency to talk a lot.
 
+## Languages and tools
+- :javascript : Javascript
 <!--
 **gerzon2022/gerzon2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
