@@ -3,16 +3,23 @@
   * ⚡ Fun fact: Being someone who typically doesn't talk much but when I do, I have a tendency to talk a lot.
 
 ## Languages and tools
-<img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/css.png" width="35" height="35">
-<img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/figma.png" width="35" height="35">
-<img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/gitgitaw.png" width="35" height="35">
-<img src="hhttps://github.com/gerzon2022/gerzon2022/blob/main/assets/html.png" width="35" height="35">
-<img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/javava.png" width="35" height="35">
-<img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/js.png" width="35" height="35">
-<img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/liquid.png" width="35" height="35">
-<img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/postpostman.png" width="35" height="35">
-<img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/shopify.png" width="35" height="35">
-<img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/graphql.png" width="35" height="35">
+
+<div style = "display : flex; column-gap : 2px;">
+ <img style = "display : flex; " src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/css.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/figma.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/gitgitaw.png" width="35" height="35">
+ <img src="hhttps://github.com/gerzon2022/gerzon2022/blob/main/assets/html.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/javava.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/js.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/liquid.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/postpostman.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/shopify.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/graphql.png" width="35" height="35">
+</div>
+## Tools
+
+
+
 <!--
 **gerzon2022/gerzon2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
