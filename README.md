@@ -4,7 +4,7 @@
 
 ## Languages and tools
 
-<div style = "display : flex; column-gap : 2px;">
+<div style = "display : flex; column-gap : 8px;">
  <img style = "display : flex; " src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/css.png" width="35" height="35">
  <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/figma.png" width="35" height="35">
  <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/gitgitaw.png" width="35" height="35">
@@ -16,6 +16,8 @@
  <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/shopify.png" width="35" height="35">
  <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/graphql.png" width="35" height="35">
  <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/spring.svg" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/node.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/react.png" width="35" height="35">
 </div>
 
 
